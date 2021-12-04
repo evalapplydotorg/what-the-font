@@ -8,24 +8,24 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 /* use Gentium Plus - Regular in .woff format */
 @font-face {
   font-family: GentiumPlusW;
-  src: url(GentiumPlus-Regular.woff2);
+  src: url(https://raw.githubusercontent.com/evalapplydotorg/tblm-public/fonts/content/gentium-plus-v6-001/GentiumPlus-Regular.woff2);
 }
 /* use Gentium Plus - Italic in .woff2 format */
 @font-face {
   font-family: GentiumPlusW;
   font-style: italic;
-  src: url(GentiumPlus-Italic.woff2);
+  src: url(https://raw.githubusercontent.com/evalapplydotorg/tblm-public/fonts/content/gentium-plus-v6-001/GentiumPlus-Italic.woff2);
 }
 /* use Gentium Plus - Bold in .woff2 format */
 @font-face {
     font-family: GentiumPlusW;
     font-weight: bold;
-    src: url(GentiumPlus-Bold.woff2);
+    src: url(https://raw.githubusercontent.com/evalapplydotorg/tblm-public/fonts/content/gentium-plus-v6-001/GentiumPlus-Bold.woff2);
 }
 /* use Gentium Plus - Bold Italic in .woff2 format */
 @font-face {
     font-family: GentiumPlusW;
     font-weight: bold;
     font-style: italic;
-    src: url(GentiumPlus-BoldItalic.woff2);
+    src: url(https://raw.githubusercontent.com/evalapplydotorg/tblm-public/fonts/content/gentium-plus-v6-001/GentiumPlus-BoldItalic.woff2);
 }
