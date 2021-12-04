@@ -1,0 +1,13 @@
+@import url(../fonts/brand/oswald.css);
+@import url(../fonts/content/gentium-plus.css);
+
+/* set all text to use Gentium Plus */
+body, p {
+  font-family: GentiumPlusW, sans-serif;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading */
+h1 {
+  font-family: Oswald, sans-serif;
+  font-weight: normal;
+}
